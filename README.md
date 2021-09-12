@@ -16,6 +16,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+ <img align="right" alt="Avatar" src="https://media.discordapp.net/attachments/886747551255126018/886756481813327922/gusmaoclaudio_avatar_rd.gif">
 </div>
 
   ##
@@ -26,7 +27,6 @@
   <a href="https://www.linkedin.com/in/cgusmao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://www.youtube.com/channel/UClv9GoafeZ2PyIFRiXV0YGA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://www.reddit.com/user/cgmj8z" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
- <img align="right" alt="Avatar" src="https://media.discordapp.net/attachments/886747551255126018/886752815362482206/gusnaiclaudio_avatar_mk.gif">
 </div>
 
 <!--
