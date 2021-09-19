@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com segurança da informação
 - 🌱 Estudando JavaScript, Node, Express, React Native
-- 😄 Pronomes: Ele/Dele/He/His
+- 😄 Pronomes: Ele/Dele
 - ⚡ Fato engraçado sobre mim: Já estudei russo
 
  <div>
