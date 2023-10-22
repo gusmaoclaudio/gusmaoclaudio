@@ -26,6 +26,5 @@ Soy especialista en seguridad de la información con un profundo interés en inf
   <a href="https://www.reddit.com/user/cgmj8z" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 </div>
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
-
+![snake animation](https://github.com/<gusmaoclaudio/<gusmaoclaudio>/blob/output/github-contribution-grid-snake2.svg)
 
