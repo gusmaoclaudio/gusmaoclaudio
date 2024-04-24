@@ -6,11 +6,6 @@ Soy especialista en seguridad de la información con un profundo interés en inf
 - 🌐 Enfocado en Infraestructura y Redes.
 - 📘 Estudiando Python y C.
 
-<div>
-  <a href="https://github.com/gusmaoclaudio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusmaoclaudio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="right" alt="Avatar" src="https://media.discordapp.net/attachments/886747551255126018/886756481813327922/gusmaoclaudio_avatar_rd.gif">
 </div>
