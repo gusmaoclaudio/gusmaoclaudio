@@ -1,10 +1,10 @@
-## Hola! Soy Claudio G Macedo Jr 🖐️
+## Hello! I'm Claudio G. Macedo Jr 🖐️
 
-Soy especialista en seguridad de la información con un profundo interés en infraestructura y redes. Siempre en busca de nuevos desafíos y aprendizajes. Actualmente, estoy profundizando mis habilidades en Python y C para fortalecer mi especialización en el campo de la seguridad.
+I'm an Information Security Specialist with a strong interest in infrastructure and networks. I'm always seeking new challenges and learning opportunities. Currently, I'm deepening my skills in Python and C to strengthen my specialization in the field of cybersecurity.
 
-- 🔐 Especialista en Seguridad de la Información.
-- 🌐 Enfocado en Infraestructura y Redes.
-- 📘 Estudiando Python y C.
+- 🔐 Specialist in Information Security  
+- 🌐 Focused on Infrastructure and Networking  
+- 📘 Currently studying Python and C  
 
 <div style="display: inline_block"><br>
   <img align="right" alt="Avatar" src="https://media.discordapp.net/attachments/886747551255126018/886756481813327922/gusmaoclaudio_avatar_rd.gif">
@@ -12,7 +12,7 @@ Soy especialista en seguridad de la información con un profundo interés en inf
 
 ##
 
-📱 **Conecta conmigo:**
+📱 **Let's Connect:**
 <div> 
   <a href="https://instagram.com/_claudio.gusmao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:claudiogusmao.mj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -21,3 +21,7 @@ Soy especialista en seguridad de la información con un profundo interés en inf
   <a href="https://www.reddit.com/user/cgmj8z" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 </div>
 
+![OS](https://img.shields.io/badge/Linux-Arch-informational?logo=arch-linux)
+![Shell](https://img.shields.io/badge/Shell-Zsh-informational?logo=gnu-bash)
+![Editor](https://img.shields.io/badge/Editor-Neovim-brightgreen?logo=neovim)
+![Focus](https://img.shields.io/badge/Focus-Cybersecurity-blueviolet?logo=linux-foundation)
