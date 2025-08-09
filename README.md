@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Claudio G. Macedo Jr
+# 👋 Hi there, I’m Claudio G. Macedo Jr.
 
 🔐 **Cybersecurity Analyst** with strong experience in **SOC Operations**, **SIEM management**, and **Identity & Access Management (IAM)**.  
 💻 Passionate about **infrastructure, networks, backend development**, and **security automation**.  
