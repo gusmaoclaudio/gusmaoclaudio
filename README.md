@@ -23,11 +23,6 @@
 
 ---
 
-### 📌 Projects
-[![Link Shortener](https://github-readme-stats.vercel.app/api/pin/?username=gusmaoclaudio&repo=link-shortener&theme=radical)](https://github.com/gusmaoclaudio/link-shortener)
-
----
-
 ### 📊 GitHub Stats
 ![Claudio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusmaoclaudio&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gusmaoclaudio&layout=compact&theme=radical)
