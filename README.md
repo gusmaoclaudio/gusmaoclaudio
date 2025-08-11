@@ -5,8 +5,8 @@
 
 ### 🚀 About Me
 - 🔐 Passionate about **Information Security** and automation.
-- 💻 Currently building projects with **Python** (FastAPI, automation tools) and learning **Go**.
-- 📚 Always improving skills in security, backend, and DevOps.
+- 💻 Building projects with **Python** (FastAPI, automation) and learning **Go**.
+- 📚 Constantly improving skills in security, backend, and DevOps.
 - 🌎 Based in Argentina, open to international opportunities.
 
 ---
@@ -23,12 +23,8 @@
 
 ---
 
-### 📌 Featured Project
-#### 🔗 [Link Shortener API](https://github.com/gusmaoclaudio/link-shortener)
-Lightweight URL shortening service built with **FastAPI**, **SQLite**, and **SQLAlchemy**.  
-Includes custom slug support, click tracking, automated tests, and CI with GitHub Actions.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gusmaoclaudio&repo=link-shortener&theme=radical)](https://github.com/gusmaoclaudio/link-shortener)
+### 📌 Projects
+[![Link Shortener](https://github-readme-stats.vercel.app/api/pin/?username=gusmaoclaudio&repo=link-shortener&theme=radical)](https://github.com/gusmaoclaudio/link-shortener)
 
 ---
 
